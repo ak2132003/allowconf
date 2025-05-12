@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "maintenance": false,
+  "maintenanceMessage": "النظام تحت الصيانة حالياً",
+  "requiredVersion": "5.0",
+  "updateUrl": "https://example.com/update",
+  "securityLevel": "high"
+}
